@@ -1,0 +1,15 @@
+
+
+
+Na pasta local:
+
+1) --> $ git clone https://github.com/jorgeaslima/cobol.git
+2) --> $ cd cobol
+3) --> $ git status
+4) --> $ git add .
+5) --> $ git status
+6) --> $ git commit -m "Exemplo de commit no github"
+7) --> $ git push
+
+anacatarina@RECLB007 MINGW64 /d/RepositoriosGIT/jorgeaslima/cobol (master)
+$
